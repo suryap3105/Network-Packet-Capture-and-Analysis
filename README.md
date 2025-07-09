@@ -7,14 +7,14 @@ This repository contains a Computer Networks assignment focused on packet-level 
 
 - Graphical output and terminal results
 
-🔍 Features
+**Features**
 - Packet parsing and inspection using scapy/pyshark
 
 - Graph generation from packet data
 
 - Network insights from real traffic
 
-📂 Files
+**Files**
 -- captured_packets.pcap: Raw packet capture
 
 -- cn_assignment.py: Main analysis script
