@@ -15,10 +15,10 @@ This repository contains a Computer Networks assignment focused on packet-level 
 - Network insights from real traffic
 
 **Files**
--- captured_packets.pcap: Raw packet capture
+- captured_packets.pcap: Raw packet capture
 
--- cn_assignment.py: Main analysis script
+- cn_assignment.py: Main analysis script
 
--- graph.jpeg: Visual output of analysis
+- graph.jpeg: Visual output of analysis
 
--- terminal_output.jpeg: Sample run output
+- terminal_output.jpeg: Sample run output
